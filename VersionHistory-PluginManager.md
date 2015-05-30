@@ -1,6 +1,17 @@
 ## PluginManager Version History
 
 
+### 1.1.0
+
+released 2015-MAY-29
+
+  - store container data in the FM file instead of externally
+  - add button to install plugin on server from UI
+  - allow "Install and View" privilege set to import data and re-login
+  - allow "Install" privilege set to re-login
+  - add button on Installed Plugins portal which allows for viewing the servers plugins (only visible if the file is hosted), and not available from the FM12 UI
+
+
 ### 1.0.0
 
 released 2015-MAY-22
@@ -10,6 +21,7 @@ released 2015-MAY-22
   - improved some error messages
   - prevent error dialog in Create Log Entry script
   - update privilege sets to work with all new scripts
+  - bug fix: when adding a record to the file portal: "Select File" dialog was shown twice when clicking the "Select File" button
 
 
 ### 0.3.0

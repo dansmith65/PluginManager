@@ -1,6 +1,16 @@
 ## PluginChecker Version History
 
 
+### 1.1.0
+
+released 2015-MAY-29
+
+  - add sample config script for Mailit plugin
+    - includes an alternate method of defining the versionTest parameter
+  - add $registrationExpression to all sample config scripts
+  - add $name to all sample config scripts
+
+
 ### 1.0.0
 
 released 2015-MAY-22
