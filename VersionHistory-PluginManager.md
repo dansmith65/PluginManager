@@ -1,6 +1,15 @@
 ## PluginManager Version History
 
 
+### 1.2.0
+
+released 2018-JAN-04
+
+  - delete External Data Source: Log, PluginManager
+  - change default level to 0, GitHub Issue #7
+  - bug fix: Install OnTimer step not server compatible, GitHub Issue #9
+
+
 ### 1.1.0
 
 released 2015-MAY-29

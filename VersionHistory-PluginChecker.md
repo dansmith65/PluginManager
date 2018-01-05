@@ -1,6 +1,15 @@
 ## PluginChecker Version History
 
 
+### 1.2.0
+
+released 2018-JAN-04
+
+  - delete External Data Sources: Log, PluginManager: Goya
+  - prevent FM error dialog when PluginManager file can't be found
+  - change default level to 0, GitHub Issue #7
+
+
 ### 1.1.0
 
 released 2015-MAY-29
